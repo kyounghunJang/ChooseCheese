@@ -32,6 +32,11 @@
   <img width="200" alt="스크린샷 2024-07-03 오후 3 59 30" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/b4b785c5-dc8e-4132-959f-2b522b697c56">
 </div>
 
+# 🏙️ 시스템 아키텍처
+<div align = "center">
+  <img width="998" alt="그림1" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/4d04120d-8e9a-4b23-846a-e8b201a47034">
+</div>
+
 # ⚒️ 프레임워크
 
 | 구분                      | 기술스텍                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
