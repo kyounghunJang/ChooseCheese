@@ -1,0 +1,9 @@
+confluent-kafka
+boto3
+pillow
+apache-flink==1.18.1
+apache-flink-libraries==1.18.1
+fastapi
+uvicorn
+python-jose
+

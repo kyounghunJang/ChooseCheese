@@ -1,0 +1,52 @@
+version: "3"
+services:
+  jobmanager:
+    container_name: jobmanager
+    image: pyflink:latest
+    ports:
+      - "8081:8081"
+    command: jobmanager
+    environment:
+      - |
+        FLINK_PROPERTIES=
+        jobmanager.rpc.address: jobmanager     
+    volumes: 
+      - /Users/jang-gyeonghun/2024_Capstone/crawling:/usr/crawling
+    privileged: true
+    networks:
+      default_bridge:
+        ipv4_address: 172.22.0.7
+  taskmanager:
+    image: pyflink:latest
+    container_name: taskmanager
+    depends_on:
+      - jobmanager
+    command: taskmanager
+    scale: 1
+    environment:
+      - |
+        FLINK_PROPERTIES=
+        jobmanager.rpc.address: jobmanager
+        taskmanager.numberOfTaskSlots: 2  
+    networks:
+      default_bridge:
+        ipv4_address: 172.22.0.6
+  kafka-ui:
+    image: provectuslabs/kafka-ui
+    container_name: kafka-ui_elk
+    links:
+      - kafka:kafka
+    ports:
+      - "8080:8080"
+    environment:
+      - KAFKA_CLUSTERS_0_NAME=my_kafka
+      - KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS=172.22.0.8:9092
+    networks:
+      default_bridge:
+        ipv4_address: 172.22.0.9 
+
+networks:
+  default_bridge:
+    ipam:
+      config:
+        - subnet: 172.22.0.0/16
