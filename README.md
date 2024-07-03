@@ -3,7 +3,7 @@
 <div align = "center">
 <img width="720" alt="추즈치즈" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/781ea7da-bc66-4cc7-b6ab-d56fba582d92">
 
-
+# Choose Cheese !
 **ChooseCheese는 사용자의 네컷사진 관리 및 포즈 분석/추천, 미소기부 서비스 입니다.**
 
 **기존 네컷사진 관리의 어려움을 개선하고자 하는 아이디어에서 시작되었습니다.**
