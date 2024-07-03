@@ -1,7 +1,8 @@
 # ChooseCheese
 
-<img width="720" alt="추즈치즈" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/781ea7da-bc66-4cc7-b6ab-d56fba582d92">
 <div align = "center">
+<img width="720" alt="추즈치즈" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/781ea7da-bc66-4cc7-b6ab-d56fba582d92">
+
 
 # 🧀 Choose Cheese
 
