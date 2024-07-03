@@ -20,7 +20,7 @@
   🎬 발표영상 : <a href="https://youtu.be/0kTT6WnuCr4?t=0s">Youtube</a>
 </p>
 
-# 📌 핵심기능
+## 📌 핵심기능
 
 ### 자동화된 사진 업로드, 네컷사진 관리, 인물 클러스터링
 
@@ -32,12 +32,12 @@
   <img width="200" alt="스크린샷 2024-07-03 오후 3 59 30" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/b4b785c5-dc8e-4132-959f-2b522b697c56">
 </div>
 
-# 🏙️ 시스템 아키텍처
+## 🏙️ 시스템 아키텍처
 <div align = "center">
   <img width="998" alt="그림1" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/4d04120d-8e9a-4b23-846a-e8b201a47034">
 </div>
 
-# ⚒️ 프레임워크
+## ⚒️ 프레임워크
 
 | 구분                      | 기술스텍                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -47,3 +47,7 @@
 | Data Enginnering          | <img src="https://img.shields.io/badge/AWS selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> <img src="https://img.shields.io/badge/AWS Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/apache flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white"> <img src="https://img.shields.io/badge/kafka_ui-231F20?style=for-the-badge&logo=kafka&logoColor=white">                                                                                      |
 | AI                        | <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/AWs rekognition-569A31?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Openai-412991?style=for-the-badge&logo=Openai&logoColor=white">                                                                                                                                                                                                                    |
 | Project Management& Infra | <img src="https://img.shields.io/badge/amazon ecs-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"> <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white"> |
+
+
+## 🙋‍♂️ ChooseCheese 소개
+ChooseCheese는 Android 1명 & BE 1명 & Data Engineeering & infra 1명 & AI 1명 으로 구성되어 있습니다. 
