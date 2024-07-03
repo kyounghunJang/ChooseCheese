@@ -1,5 +1,6 @@
 # ChooseCheese
 
+<<<<<<< HEAD
 <img width="720" alt="추즈치즈" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/781ea7da-bc66-4cc7-b6ab-d56fba582d92">
 # 🧀 Choose Cheese
 
@@ -12,3 +13,15 @@
 - 네컷 사진에 등장한 인물의 미소 점수를 측정하여, 미소 점수에 따른 기부를 진행하는 기능도 포함하고 있어,사용자 참여를 높이고 사회적 기여를 장려합니다.
 
 [![Youtube](http://img.youtube.com/vi/0kTT6WnuCr4/0.jpg)](https://youtu.be/0kTT6WnuCr4?t=0s)
+=======
+
+|구분|기술스텍|
+|---|---|
+|Frontend|<img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white">|
+|Backend|<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"> <img src="https://img.shields.io/badge/AWS Api Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white">|
+|DB|<img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"> <img src="https://img.shields.io/badge/Aws Rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/AWS Dynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white">|
+|Data Enginnering|<img src="https://img.shields.io/badge/AWS selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> <img src="https://img.shields.io/badge/AWS Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/apache flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white"> <img src="https://img.shields.io/badge/kafka_ui-231F20?style=for-the-badge&logo=kafka&logoColor=white">| 
+|AI|<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/AWs rekognition-569A31?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Openai-412991?style=for-the-badge&logo=Openai&logoColor=white">|
+|Project Management& Infra|<img src="https://img.shields.io/badge/amazon ecs-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"> <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white">|
+
+>>>>>>> c61d7c6a01942121ec9f9e1e1c5203156848679c
