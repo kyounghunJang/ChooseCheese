@@ -49,3 +49,4 @@
 
 ## 🙋‍♂️ ChooseCheese 소개
 ChooseCheese는 Android 1명 & BE 1명 & Data Engineeering & infra 1명 & AI 1명 으로 구성되어 있습니다. 
+세종대학교 2024-1 캡스톤 프로젝트로 제작하였습니다. 제 17회 세종대학교 창의설계경진대회에서 장려상 수상하였습니다. 
