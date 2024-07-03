@@ -25,9 +25,11 @@
 
 사용자는 네컷사진의 QR코드를 촬영하여 자동으로 사진을 저장할 수 있습니다. 사진은 메인화면에 업로드 되며, 상단의 인물 얼굴 아이콘을 통하여 특정 사람과 함께 찍은 사진을 빠르고 쉽게 찾아볼 수 있게 되었습니다. 이러한 기능을 통해 사진 정리와 관리가 훨씬 수월해지게 되었습니다.
 
-<img width="200" alt="스크린샷 2024-07-03 오후 3 59 09" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/ae0ec4ab-1d10-474d-844c-7481e974f5cc">
-<img width="200" alt="스크린샷 2024-07-03 오후 3 59 20" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/888e9192-228c-4475-8a76-9c53123f7b04">
-<img width="200" alt="스크린샷 2024-07-03 오후 3 59 30" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/b4b785c5-dc8e-4132-959f-2b522b697c56">
+<div align = "center">
+  <img width="200" alt="스크린샷 2024-07-03 오후 3 59 09" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/ae0ec4ab-1d10-474d-844c-7481e974f5cc">
+  <img width="200" alt="스크린샷 2024-07-03 오후 3 59 20" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/888e9192-228c-4475-8a76-9c53123f7b04">
+  <img width="200" alt="스크린샷 2024-07-03 오후 3 59 30" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/b4b785c5-dc8e-4132-959f-2b522b697c56">
+</div>
 
 # ⚒️ 프레임워크
 
