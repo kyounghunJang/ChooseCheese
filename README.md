@@ -30,6 +30,28 @@
   <img width="200" alt="스크린샷 2024-07-03 오후 3 59 30" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/b4b785c5-dc8e-4132-959f-2b522b697c56">
 </div>
 
+### 미소 점수, 미소 점수 랭킹, 미소 기부
+
+사용자가 업로드한 사진을 클릭하여서 사진에서 미소가 탐지된 얼굴과 측정된 미소 점수를 확인할 수 있습니다. 또한 사용자간의 긍정적인 경쟁심리를 일으킬 수 있는 미소 점수 랭킹을 도입하여서 사용자들이 더 많은 미소를 띄게끔 유도합니다. 미소 점수 랭킹은 사용자의 미소 점수에 따라서 기부금이 쌓이게 되며, 이 기부금은 사용자가 선택한 비영리 단체에 기부됩니다.
+
+<div align = "center">
+  <img width="200" alt="스크린샷 2024-07-04 오후 2 50 51" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/8e0ffb96-38ea-4c5c-b2bf-3f77fa7014aa">
+  <img width="200" alt="스크린샷 2024-07-04 오후 2 51 03" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/0cfbfb93-405d-4180-86b5-c4fb84813e8a">
+  <img width="200" alt="스크린샷 2024-07-04 오후 2 51 12" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/1c7a8cb9-ea10-49c9-9334-8194e0274cde">
+</div>
+
+
+### 포즈/분위기 분석, 분석 결과 기반 랜덤 추천, AnimeGANv3를 통한 비식별처리
+
+사용자가 업로드한 사진의 포즈와 분위기를 분석하여, 사용자가 경험해보지 못한 새로운 사진 포즈와 분위기를 추천하는 기능을 제공합니다. 또한, 사용자가 업로드한 사진을 AnimeGANv3를 통하여 비식별처리를 진행하여, 사용자의 개인정보를 보호합니다. 모든 추천 이미지는 비식별화처리되어 프라이버시를 보호하면서도 사용자에게 풍부하고 개성있는 시각 자료를 제공합니다. 
+
+<div align = "center">
+  <img width="533" alt="스크린샷 2024-07-04 오후 2 51 42" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/461f2f0f-14fa-41b7-a4fa-6f1f4dd5d10f">
+  <img width="533" alt="스크린샷 2024-07-04 오후 2 51 55" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/ebf07e3f-de3e-467c-bd77-ce92d9c0979f">
+  <img width="533" alt="스크린샷 2024-07-04 오후 2 52 08" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/a47483b4-7d77-4aad-9315-c5c4699cad36">
+  <img width="533" alt="스크린샷 2024-07-04 오후 2 52 18" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/d4ddaf2c-1831-4a2b-a57f-eecfc5d90047">
+</div>
+
 ## 🏙️ 시스템 아키텍처
 <div align = "center">
   <img width="998" alt="그림1" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/4d04120d-8e9a-4b23-846a-e8b201a47034">
