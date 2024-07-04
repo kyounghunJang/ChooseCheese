@@ -30,6 +30,7 @@
   <img width="200" alt="스크린샷 2024-07-03 오후 3 59 30" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/b4b785c5-dc8e-4132-959f-2b522b697c56">
 </div>
 
+
 ### 미소 점수, 미소 점수 랭킹, 미소 기부
 
 사용자가 업로드한 사진을 클릭하여서 사진에서 미소가 탐지된 얼굴과 측정된 미소 점수를 확인할 수 있습니다. 또한 사용자간의 긍정적인 경쟁심리를 일으킬 수 있는 미소 점수 랭킹을 도입하여서 사용자들이 더 많은 미소를 띄게끔 유도합니다. 미소 점수 랭킹은 사용자의 미소 점수에 따라서 기부금이 쌓이게 되며, 이 기부금은 사용자가 선택한 비영리 단체에 기부됩니다.
@@ -39,6 +40,7 @@
   <img width="200" alt="스크린샷 2024-07-04 오후 2 51 03" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/0cfbfb93-405d-4180-86b5-c4fb84813e8a">
   <img width="200" alt="스크린샷 2024-07-04 오후 2 51 12" src="https://github.com/kyounghunJang/ChooseCheese/assets/97864850/1c7a8cb9-ea10-49c9-9334-8194e0274cde">
 </div>
+
 
 
 ### 포즈/분위기 분석, 분석 결과 기반 랜덤 추천, AnimeGANv3를 통한 비식별처리
